@@ -1,0 +1,13 @@
+# Ignore compiled object files and binaries
+*.o
+File-EncryptDecrypt
+*.exe
+*.out
+
+# Ignore environment config
+.env
+
+# VSCode and system files
+.vscode/
+.DS_Store
+Thumbs.db
