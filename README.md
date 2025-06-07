@@ -1,5 +1,6 @@
 ```markdown
-# 🔐 File-EncryptDecrypt - Linux-based File Encryption & Decryption in C++
+
+## 🔐 File-EncryptDecrypt - Linux-based File Encryption & Decryption in C++
 
 ## 📌 Overview
 
